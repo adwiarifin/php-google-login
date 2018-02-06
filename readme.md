@@ -4,6 +4,10 @@ The code is based on this 2 tutorial:
 - Simple : [Sign in with Google PHP API](https://www.youtube.com/watch?v=lAqOZ3nXG7o)
 - Advance : [Login With Google Account Using PHP & Client API & Bootstrap Design](https://www.youtube.com/watch?v=hazMyK_cnzk&t=916s)
 
+
+This projects used `google/apiclient:2.1.0` to work with.
+
+
 For simple tutorial, the file used is:
 - google.php
 
